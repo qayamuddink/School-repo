@@ -32,7 +32,7 @@ const StudentCorner = () => {
         </ul>
       </div>
 
-      {/* Study Resources */}
+   
       <div className="mt-6">
         <h3 className="text-xl font-semibold text-gray-800">📚 Study Resources</h3>
         <ul className="mt-2 space-y-2">
@@ -46,7 +46,6 @@ const StudentCorner = () => {
         </ul>
       </div>
 
-      {/* Achievements */}
       <div className="mt-6">
         <h3 className="text-xl font-semibold text-gray-800">🏅 Achievements</h3>
         <p className="bg-white shadow p-3 rounded-lg">

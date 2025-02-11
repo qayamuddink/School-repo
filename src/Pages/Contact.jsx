@@ -10,7 +10,7 @@ const Contact = () => {
         </p>
       </div>
 
-      {/* Contact Details */}
+     
       <div className="mt-8 flex flex-col md:flex-row justify-center items-center md:items-start space-y-6 md:space-y-0 md:space-x-12 text-gray-700">
         <div className="text-center">
           <h3 className="text-xl font-semibold text-blue-500">📍 Address</h3>
@@ -28,7 +28,6 @@ const Contact = () => {
         </div>
       </div>
 
-      {/* Contact Form */}
       <div className="mt-10 bg-white p-6 rounded-lg shadow-md max-w-lg mx-auto">
         <h3 className="text-2xl font-semibold text-blue-500 text-center">📩 Send a Message</h3>
         <form className="mt-4">
@@ -59,7 +58,6 @@ const Contact = () => {
         </form>
       </div>
 
-      {/* Google Map (Replace src with actual location link) */}
       <div className="mt-10">
         <h3 className="text-xl font-semibold text-blue-500 text-center">📍 Find Us on Map</h3>
         <div className="mt-4">

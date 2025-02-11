@@ -8,7 +8,7 @@ const BeyondAcademics = () => {
         We believe in holistic education that goes beyond books and classrooms.
       </p>
 
-      {/* Section for extracurricular activities */}
+      
       <div className="mt-6 bg-gray-100 p-4 rounded-lg shadow-md">
         <h2 className="text-2xl font-semibold text-blue-800">Extracurricular Activities</h2>
         <ul className="mt-2 text-gray-700 text-left list-disc list-inside">
@@ -19,7 +19,6 @@ const BeyondAcademics = () => {
         </ul>
       </div>
 
-      {/* Section for sports */}
       <div className="mt-6 bg-gray-100 p-4 rounded-lg shadow-md">
         <h2 className="text-2xl font-semibold text-blue-800">Sports & Fitness</h2>
         <ul className="mt-2 text-gray-700 text-left list-disc list-inside">
@@ -30,7 +29,7 @@ const BeyondAcademics = () => {
         </ul>
       </div>
 
-      {/* Section for student leadership */}
+
       <div className="mt-6 bg-gray-100 p-4 rounded-lg shadow-md">
         <h2 className="text-2xl font-semibold text-blue-800">Student Leadership</h2>
         <ul className="mt-2 text-gray-700 text-left list-disc list-inside">

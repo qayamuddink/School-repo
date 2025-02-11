@@ -3,15 +3,15 @@ import React from "react";
 const Admission = () => {
   return (
     <div className="p-6 text-center">
-      {/* Page Title */}
+     
       <h1 className="text-3xl font-bold text-blue-900">Admission Process</h1>
 
-      {/* Admission Information */}
+    
       <p className="mt-3 text-lg text-gray-700">
         Join Navy Children School and be a part of an excellent learning environment.
       </p>
 
-      {/* Eligibility Criteria Section */}
+     
       <div className="mt-6 bg-gray-100 p-4 rounded-lg shadow-md">
         <h2 className="text-2xl font-semibold text-blue-800">Eligibility Criteria</h2>
         <ul className="mt-2 text-gray-700 text-left list-disc list-inside">
@@ -21,7 +21,7 @@ const Admission = () => {
         </ul>
       </div>
 
-      {/* Admission Process Section */}
+ 
       <div className="mt-6 bg-white p-4 rounded-lg shadow-md border">
         <h2 className="text-2xl font-semibold text-blue-800">Admission Process</h2>
         <ol className="mt-2 text-gray-700 text-left list-decimal list-inside">
@@ -32,7 +32,7 @@ const Admission = () => {
         </ol>
       </div>
 
-      {/* Contact Section */}
+     
       <div className="mt-6 p-4 bg-blue-100 rounded-lg shadow-md">
         <h2 className="text-2xl font-semibold text-blue-800">Need Help?</h2>
         <p className="text-gray-700">Contact our admission office for any queries:</p>
